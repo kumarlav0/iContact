@@ -1,0 +1,42 @@
+PODS:
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - FSCalendar (2.8.0)
+  - IQKeyboardManagerSwift (6.4.1)
+  - Letters (2.1.1)
+  - pop (1.0.12)
+  - SKCountryPicker (1.2.0)
+  - WYMaterialButton (2.0.2):
+    - pop (~> 1.0)
+
+DEPENDENCIES:
+  - Charts
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - Letters
+  - SKCountryPicker
+  - WYMaterialButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - Letters
+    - pop
+    - SKCountryPicker
+    - WYMaterialButton
+
+SPEC CHECKSUMS:
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  IQKeyboardManagerSwift: d2df660d0b8d64a15cb2537c9ff303213fa515b2
+  Letters: 34476b0d413813bcf9273b2760be7ff4cd75f5c7
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  SKCountryPicker: f0087598e342ee70a087ab334a28ba9ee37f1df2
+  WYMaterialButton: e7834149d5a8e073ea4424162c2e7c922b7a25c0
+
+PODFILE CHECKSUM: cabbc77eccad67850d82f1836ca3d1f86ac66f27
+
+COCOAPODS: 1.6.1

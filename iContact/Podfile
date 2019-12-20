@@ -1,0 +1,15 @@
+
+# platform :ios, '9.0'
+
+target 'MyNewDemos' do
+ 
+  use_frameworks!
+
+ pod 'Letters'
+ pod 'WYMaterialButton'
+ pod 'IQKeyboardManagerSwift'
+ pod 'FSCalendar'
+ pod 'Charts'
+ pod 'SKCountryPicker'
+
+end
